@@ -28,3 +28,6 @@ Thumbs.db
 *.log
 *.tmp
 ~$*
+# Generated and intermediate data
+data/raw/
+data/interim/

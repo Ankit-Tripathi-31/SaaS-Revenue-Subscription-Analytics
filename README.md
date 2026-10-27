@@ -6,6 +6,10 @@ This project analyzes Software-as-a-Service (SaaS) subscription activity, recurr
 
 The project follows the Qveto Technologies Data Analyst Project 2 requirements and four-week implementation plan.
 
+## Dashboard Preview
+
+![SaaS Executive Overview Dashboard](reports/SaaS_Executive_Overview.png)
+
 ## Business Objectives
 
 - Analyze Monthly Recurring Revenue (MRR).
@@ -49,6 +53,7 @@ SaaS-Revenue-Subscription-Analytics/
 ## Four-Week Implementation Plan
 
 ### Week 1: Data Ingestion and Quality Audit
+
 - Identify and obtain a suitable dataset.
 - Inspect customer, subscription, and billing records.
 - Validate identifiers, dates, statuses, prices, and missing values.
@@ -56,18 +61,21 @@ SaaS-Revenue-Subscription-Analytics/
 - Perform initial exploratory data analysis.
 
 ### Week 2: MRR, Subscription Movements and Churn
+
 - Calculate recurring revenue and subscription movement KPIs.
 - Analyze cancellations and reactivations.
 - Calculate customer and revenue churn.
 - Validate monthly KPI calculations.
 
 ### Week 3: Retention and Revenue Trends
+
 - Perform cohort retention analysis.
 - Compare customer segments and subscription plans.
 - Analyze revenue trends.
 - Evaluate CAC, LTV, and forecasting only when supported by available data.
 
 ### Week 4: Dashboard and Reporting
+
 - Develop an interactive Power BI dashboard.
 - Validate dashboard metrics against analytical results.
 - Prepare a revenue analysis report.
